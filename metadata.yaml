@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '3066'
     url: http://www.gutenberg.org/2009/agents/3066
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Holcroft
+covers:
+- cover_type: archival
+  image_path: 64953-h/images/cover.jpg
 creator:
   author:
     agent_name: Beaumarchais, Pierre Augustin Caron de
@@ -27,6 +30,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Pierre-Augustin_Caron_de_Beaumarchais
 description: A free translation of Beaumarchais' "La folle journée, ou, Le mariage
   de Figaro."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64953#The-Follies-of-a-Day-or-The-Marriage-of-Figaro-A-comedy-as-it-is-now-performing-at-the-Theatr_
 gutenberg_issued: '2021-03-28'
 gutenberg_type: Text
 identifiers:
