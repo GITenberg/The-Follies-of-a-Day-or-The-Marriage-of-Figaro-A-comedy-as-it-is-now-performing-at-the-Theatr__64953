@@ -1,0 +1,46 @@
+_repo: The-Follies-of-a-Day-or-The-Marriage-of-Figaro-A-comedy-as-it-is-now-performing-at-the-Theatr__64953
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Holcroft, Thomas
+    alias: Vincent, William
+    birthdate: 1745
+    deathdate: 1809
+    gutenberg_agent_id: '3066'
+    url: http://www.gutenberg.org/2009/agents/3066
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Holcroft
+creator:
+  author:
+    agent_name: Beaumarchais, Pierre Augustin Caron de
+    aliases:
+    - Beaumarchais, M. de (Pierre Augustin Caron)
+    - Beaumarchais, Pierre-Augustin Caron de
+    - Beaumarchais
+    - De Beaumarchais, Pierre Augustin Caron
+    - Caron de Beaumarchais, Pierre Augustin
+    birthdate: 1732
+    deathdate: 1799
+    gutenberg_agent_id: '7962'
+    url: http://www.gutenberg.org/2009/agents/7962
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pierre_Beaumarchais
+    - https://fr.wikipedia.org/wiki/Pierre-Augustin_Caron_de_Beaumarchais
+description: A free translation of Beaumarchais' "La folle journée, ou, Le mariage
+  de Figaro."
+gutenberg_issued: '2021-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64953'
+  lccn: '25003363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Comedies'
+- !lcsh 'French drama -- Translations into English'
+- GITenberg
+title: "The Follies of a Day; or, The Marriage of Figaro\r\nA comedy, as it is now\
+  \ performing at the Theatre-Royal, Covent-Garden. From the French of M. de Beaumarchais"
+url: http://www.gutenberg.org/ebooks/64953
